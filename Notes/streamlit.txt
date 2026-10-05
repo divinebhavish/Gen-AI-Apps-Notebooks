@@ -1,0 +1,1 @@
+whenever we make an application with streamlit. Stramlit always refreshes whole application on every request of user. from line1 to last
