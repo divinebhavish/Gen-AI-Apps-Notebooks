@@ -13,3 +13,5 @@ pypdf
 beautifulsoup4
 wikipedia
 langchain-text-splitters
+langchain-google-genai
+langchain-chroma
