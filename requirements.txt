@@ -15,3 +15,4 @@ wikipedia
 langchain-text-splitters
 langchain-google-genai
 langchain-chroma
+pydantic
